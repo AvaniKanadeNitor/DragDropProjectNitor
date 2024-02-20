@@ -1,0 +1,43 @@
+{
+    "myfiles": [
+        {
+            
+            "name": "resume.pdf",
+            "type": "pdf"
+        },
+        {
+            
+            "name": "flower.jpg",
+            "type": "image"
+        },
+        {
+            
+            "name": "offerLetter.pdf",
+            "type": "pdf"
+        },
+        {
+            
+            "name": "wallpaper.png",
+            "type": "image"
+        },
+        {
+            
+            "name": "Desktop",
+            "type": "folder",
+            "data": []
+        },
+        {
+            
+            "name": "Documents",
+            "type": "folder",
+            "data": []
+        },
+        {
+            
+            "name": "Downloads",
+            "type": "folder",
+            "data": []
+        }
+    ]
+}
+  
